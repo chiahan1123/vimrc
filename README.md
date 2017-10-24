@@ -2,6 +2,10 @@
 
 ## Installation
 
+```
+curl -o - https://raw.githubusercontent.com/chiahan1123/vimrc/master/install.sh | sh
+vim +PlugInstall +qall
+```
 
 ## How to Update
 
