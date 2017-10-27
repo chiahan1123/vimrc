@@ -21,6 +21,3 @@ git clone https://github.com/chiahan1123/vimrc.git "$VIMDIR"
 
 # Create symbolic link to default .vimrc location
 ln -s $VIMDIR/vimrc $VIMRC
-
-# Install plugins
-vim +PlugInstall +qall
